@@ -1,1 +1,46 @@
-
+<html>
+    <head>
+        <title>Пісні</title>
+        <link rel="stylesheet" href="style.csssongs">
+    </head>
+    <header>
+        <h1>Пісні, які написані гуртом Kalush Orchestra</h1>
+    </header>
+    <main>
+        <div>
+            <ol>
+                <div class="container">
+                <div class="left">
+                <li class="left">«Штомбер Вомбер» (2021)</li>
+                <li class="left">«Тринда» (за участю KOZAK SIROMAHA) (2021)</li>
+                <li class="left">«Stefania» (2022)</li>
+                <li class="left">«Ой на горі» (2022)</li>
+                <li class="left">«Доле моя» (2022)</li>
+                <li class="left">«Сколихнулась» (2022)</li>
+                <li class="left">«О Мамо (за участю Сальто Назад)» (2022)</li>
+                <li class="left">«In the shadows of Ukraine (за участю The Rasmus)» (2022)</li>
+                <li class="left">«Naszy Domy (за участю Szpaku)» (2022) </li>
+                </div>
+                <div class="right">
+                <li class="right">«Shchedrivka» (2022)</li>
+                <li class="right">«Нумо Козаки (за участю KOZAK SIROMAHA)» (2022)</li>
+                <li class="right">«Changes» (2023)</li>
+                <li class="right">«Ushme Uturbe» (за участю Bbno$ та Diktav)" (2023)</li>
+                <li class="right">«In the fire» (2023)</li>
+                <li class="right">«Chase» (в межах Spotify Singles) (2023)</li>
+                <li class="right">«Human» (в межах Spotify Singles) (2023)</li>
+                <li class="right">«Вогонь горить» (2023) (без участі Олега Псюка)</li>
+                <li class="right">«Це любов» (2023)</li>
+                </div>
+                </div>
+                <div class="center">
+                <p class="center">19. «Янголом» (2024)</p>
+                </div>
+            </ol>
+        </div>    
+    </main>
+    <footer>
+        <p>Усі пісні можна послухати на Youtube каналі самого гурту.<br> Посилання знизу:
+        <a class="youtube" href="https://www.youtube.com/@kalush.orchestra"><b><i>Youtube Kalush Orchestra</i></b></a></p>
+    </footer>
+</html>
