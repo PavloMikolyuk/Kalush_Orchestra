@@ -1,1 +1,9 @@
+body {
+    font-family: sans-serif;
+    background-color: #35CE2D;
+    color: white;
+}
 
+li {
+    padding: 8px 0 8px 0;
+}
